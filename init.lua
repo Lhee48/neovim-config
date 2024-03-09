@@ -30,6 +30,7 @@ spec "lhee.lab"
 
 spec "lhee.autopairs"
 spec "lhee.neogit"
+spec "lhee.indentline"
 
 require "lhee.lazy"
 

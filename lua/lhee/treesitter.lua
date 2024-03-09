@@ -27,6 +27,7 @@ function treesitter.config()
 			"typescript",
 		},
 		highlight = { enable = true },
+    autopairs = { enable = true},
 		indent = { enable = true },
 	})
 end
