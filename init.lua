@@ -31,7 +31,7 @@ spec "lhee.lab"
 spec "lhee.autopairs"
 spec "lhee.neogit"
 spec "lhee.indentline"
-
+spec "lhee.fidget"
 require "lhee.lazy"
 
 -- Need to be installed
