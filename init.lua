@@ -29,7 +29,7 @@ spec "lhee.lab"
 -- :Lab code run
 
 spec "lhee.autopairs"
--- spec "lhee.neogit"
+spec "lhee.neogit"
 
 require "lhee.lazy"
 
